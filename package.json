@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/linjstip-top-project/Project_repository#readme",
   "dependencies": {
-    "webpack": "^4.36.1"
+    "webpack": "^5.75.0"
   }
 }
